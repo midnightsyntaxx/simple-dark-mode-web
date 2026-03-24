@@ -6,7 +6,7 @@ Proyek latihan web statis dengan fitur perpindahan tema dan animasi dekorasi
 
 ## 📂 Struktur Folder
 ```text
-.
+
 ├── index.html          # Struktur utama
 ├── css/
 │   └── style.css       # Styling & Media Queries
@@ -15,9 +15,10 @@ Proyek latihan web statis dengan fitur perpindahan tema dan animasi dekorasi
 └── img/
     └── picture.png     # Asset dekorasi
 
----
 
-Deskripsi Singkat
+
+## 📖 Deskripsi Singkat
+```text
 Proyek landing page sederhana dengan fitur Dark Mode dan Entrance Animation menggunakan HTML, CSS, dan JAVASCRIPT
 
 Fitur Utama:
