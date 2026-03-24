@@ -5,7 +5,8 @@ Proyek latihan web statis dengan fitur perpindahan tema dan animasi dekorasi
 ---
 
 ## 📂 Struktur Folder
-
+```text
+.
 ├── index.html          # Struktur utama
 ├── css/
 │   └── style.css       # Styling & Media Queries
